@@ -49,8 +49,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Access&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Access&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Bash&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Bash&layout=compact&theme=tokyonight" />
 </div>
 
 ---
