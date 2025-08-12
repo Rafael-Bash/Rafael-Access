@@ -1,7 +1,7 @@
 # Perfil Profissional - Rafael Tulio Junior
 
 <div align="center">
-  <img src="https://github.com/Rafael-Access.png" width="200" height="200" style="border-radius: 50%; border: 5px solid #4e54c8;"/>
+  <img src="https://avatars.githubusercontent.com/u/78859780" width="200" height="200" style="border-radius: 50%; border: 5px solid #4e54c8;"/>
   <h1>Rafael Tulio Junior</h1>
   <h3>Desenvolvedor Full Stack Pleno</h3>
   
