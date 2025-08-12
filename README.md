@@ -71,8 +71,9 @@ Bacharelado em Análise e Desenvolvimento de Sistemas
 
 Se você gostou do meu trabalho e quer me apoiar:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=X4WD7W78HCFHA){:target="_blank"}
-
+<a href="https://www.paypal.com/donate?hosted_button_id=X4WD7W78HCFHA" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal">
+</a>
 ---
 
 <div align="center">
