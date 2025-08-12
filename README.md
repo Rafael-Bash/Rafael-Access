@@ -46,15 +46,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Bash&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Bash&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 💼 Experiência Profissional
 
 **Bash Technology** - Desenvolvedor Full Stack Pleno (2 anos)  
@@ -80,7 +71,7 @@ Bacharelado em Análise e Desenvolvimento de Sistemas
 
 Se você gostou do meu trabalho e quer me apoiar:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=X4WD7W78HCFHA)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=X4WD7W78HCFHA){:target="_blank"}
 
 ---
 
