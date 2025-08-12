@@ -74,7 +74,6 @@ Se você gostou do meu trabalho e quer me apoiar:
 <a href="https://www.paypal.com/donate?hosted_button_id=X4WD7W78HCFHA" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal">
 </a>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rafael-Access&color=blue&style=flat-square" />
